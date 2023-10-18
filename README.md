@@ -1,2 +1,2 @@
 # policyframing
-analyze frameworks in multiple policies
+- Social Network analysis and sentimental analysis on policy documents/
